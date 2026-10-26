@@ -1,9 +1,6 @@
 #HCDE410
 Files for HCDE410 - Assignment A2
 
-Adapted from # cdsw-2020 https://wiki.communitydata.science/Seattle_open_data
-
-
 # A2 — Exploring sources of bias in data
 **Data** This project uses data from the Wikipedia Talk Corpus study.
 
@@ -24,5 +21,6 @@ Q9. What % of workers who labelled the toxicity dataset do we have demographic d
 Q10. What % of the comments in the toxicity dataset were labelled by male vs. female-identified workers?
 Q11. What % of the comments in the toxicity dataset were labelled by people for whom English is NOT their first language?
 Q12. Based on your findings from questions 9-11, how might this dataset present a biased view of "toxicity"? How would you expect such biases to impact how the Perspective API performs?
-## How to re-run
+## How to re-run:
 Open `A2.ipynb` and run all cells (needs `requests`, `pandas`, `matplotlib`).
+
