@@ -1,1 +1,10 @@
-observation,theme
+Observation ,Theme
+Immediately questioned the LLM’s answer and looked to the researcher for confirmation.,Preexisting Distrust
+Wanted to independently verify the answer before accepting it.,Human Verification
+The LLM’s reasoning increased their confidence in the answer.,Trust Through Verification
+Was surprised when the LLM produced the correct answer on its first attempt.,Preexisting Distrust
+Relied on the researcher’s judgment before fully trusting the LLM.,Human Verification
+"Initially approached the LLM with doubt, despite the answer being correct.",Preexisting Distrust
+Became more confident after double-checking the answer.,Trust Through Verification
+Viewed the LLM’s correct first response as surprising rather than expected.,Preexisting Distrust
+"Used the LLM’s reasoning as supporting evidence, rather than relying solely on its final answer.",Trust Through Verification
